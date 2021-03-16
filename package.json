@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nkhs/test-action#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "ssh2": "^0.8.9"
   }
 }
