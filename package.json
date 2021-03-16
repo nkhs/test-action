@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nkhs/test-action/issues"
   },
-  "homepage": "https://github.com/nkhs/test-action#readme"
+  "homepage": "https://github.com/nkhs/test-action#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
